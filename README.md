@@ -12,7 +12,8 @@
 ## DM
 ![WhatsApp Image 2025-04-22 at 08 34 00_ad82425f](https://github.com/user-attachments/assets/23689139-27f5-4678-b2ae-dd2d0815014a)
 
-## Amplitude shift keying
-![WhatsApp Image 2025-04-22 at 08 24 49_21f360a4](https://github.com/user-attachments/assets/79c824d2-fe10-48f1-8112-cc9fa4673f03)
+## Line encoding
+![WhatsApp Image 2025-04-23 at 21 08 24_52b3501d](https://github.com/user-attachments/assets/f559f2d3-457d-4d42-918d-f58a47841993)
+
 
 
